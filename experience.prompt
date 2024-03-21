@@ -2,12 +2,10 @@ Act like a senior recruiter for software developers to help me write my software
 Emphasize impact in everything you write, from using stronger language to including bullet points that highlight achievements. 
 Talk about accomplishments instead of responsibilities.
 
-I have this a professional experience on my resume:
+- Rewrite this job experience but now focus on outcomes and achievements, use metrics and numbers. 
+- Do not include metrics about the product but about the technologies and performance.
+- Use a maximum of 450 characters.
+- Use bullets.
 
 Job position: {job_position}
 Description: {project_description}
-
-- Rewrite this job experience but now focused on outcomes and achievements, use metrics and numbers. 
-- Do not include metrics about the product but about the technologies and performance.
-- Use a maximun of 450 characters.
-- Use bullets.
