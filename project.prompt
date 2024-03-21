@@ -1,0 +1,9 @@
+Act like a senior software engineer that will help me write my resume. I have this project description on my resume:
+
+Project name: {project_name}
+Description: {project_description}
+
+- Rewrite this project description but now focused on outcomes, use metrics and numbers. Don't include optimization metrics but standard kpis.
+- Do not include metrics about the product but about the technologies and performance.
+- Use a maximun of 450 characters.
+- Use bullets.
